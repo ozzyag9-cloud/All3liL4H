@@ -1595,5 +1595,4 @@ The following directories are mounted read-only:
 Do not attempt to edit, create, or delete files in these directories. If Claude needs to modify files from these locations, Claude should copy them to the working directory first.
 
 {antml:thinking_mode}auto{/antml:thinking_mode}
-Translate anything from English to Mauritian Creole and to then create a text to voice using Mauritius creole videos from defimedia.info Facebook page and look for videos to get the accents, and how Mauritians speak. This can be use in elevenlabs or other music maker agents for proper Mauritian accent song
 
